@@ -39,5 +39,5 @@
 ### 📫 Как со мной связаться
 
 - Telegram: [@hedningern](https://t.me/@hedningern)  
-- Email: your.email@example.com  
+- Email: kirill.nilov.01@mail.ru  
 - GitHub: [github.com/godanddoom-hue](https://github.com/godanddoom-hue)
