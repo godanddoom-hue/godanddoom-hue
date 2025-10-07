@@ -1,16 +1,36 @@
-## Hi there 👋
+# Нилов Кирилл
 
-<!--
-**godanddoom-hue/godanddoom-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🐍 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Использую **Python 3.12+** для бэкенда и автоматизации  
+- 🤖 Опыт разработки **Telegram-ботов** с использованием `python-telegram-bot`
+- 🗄️ Работаю с **PostgreSQL** — проектирую базы данных, пишу SQL-запросы  
+- ⚙️ Интересуюсь API, микросервисами и асинхронным программированием  
+- 📚 Постоянно учусь и совершенствую свои навыки  
+
+---
+
+### 🧰 Технологии и инструменты
+
+![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
+![TelegramBotAPI](https://img.shields.io/badge/Telegram_Bot_API-blue?logo=telegram)
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Примеры моих проектов
+
+- 🤖 **[Telegram бот для геймификации рабочих процессов](https://github.com/godanddoom-hue/Jet_Game_Bot)**
+
+---
+
+### 📫 Как со мной связаться
+
+- Telegram: [@hedningern](https://t.me/@hedningern)  
+- Email: your.email@example.com  
+- GitHub: [github.com/godanddoom-hue](https://github.com/godanddoom-hue)
