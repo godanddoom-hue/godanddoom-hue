@@ -1,39 +1,73 @@
 # Нилов Кирилл
 ---
-### 🐍 Обо мне
+### 🐍 Кратко обо мне
 
-- 💡 Использую **Python 3.12+** для бэкенда и автоматизации  
-- 🤖 Опыт разработки **Telegram-ботов** с использованием `telebot`
-- 🗄️ Работаю с **PostgreSQL** — проектирую базы данных, пишу SQL-запросы  
-- ⚙️ Интересуюсь API, микросервисами и асинхронным программированием  
-- 📚 Постоянно учусь и совершенствую свои навыки  
+Технарь с дипломом по защите информации, который по-настоящему увлекся созданием программ. Умею и люблю превращать задачи в работающий код на Python. Есть опыт доведения своих идей до работающих проектов — от ботов до дипломных систем. Ищу команду, где можно расти как разработчик, впитывать опыт и приносить реальную пользу.
 
 ---
 
-### 🧰 Технологии и инструменты
+### 🧰 С чем работаю
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
-
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![TelegramBotAPI](https://img.shields.io/badge/Telegram_Bot_API-blue?logo=telegram)
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+### 💡 Что умею и как работаю
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+**Про разработку:**
+* Пишу на Python — от скриптов до бэкенда
+* Понимаю, как правильно структурировать код и данные
+* Работал с базами: проектировал таблицы, писал запросы, связывал с приложением
+* Делал ботов, которые общаются с пользователями и работают с данными
+* Знаю, как подключаться к внешним сервисам через API
+
+**Про процессы:**
+* Привык вести код в Git и работать через ветки
+* Использую профессиональные инструменты — от PyCharm до терминала
+* Умею разбираться в чужом коде и технических спецификациях
+* Готов работать по правилам команды: код-ревью, планирование задач, ежедневная sync
+
+**Мой подход:**
+* Быстро вникаю в новые темы и технологии
+* Точно выполняю поставленные задачи и слежу за деталями
+* Не боюсь спрашивать и уточнять, если что-то непонятно
+* Ценю обратную связь — это помогает делать лучше
+* Работаю на результат, но понимаю важность командной работы
 
 ---
 
-### 🚀 Примеры моих проектов
+### 🚀 Мои проекты
 
-- 🤖 **[Telegram бот для геймификации рабочих процессов](https://github.com/godanddoom-hue/Jet_Game_Bot)**
+**Telegram-бот для геймификации**  
+Сделал с нуля бота, который помогает командам взаимодействовать через игровые механики. Реализовал логику уровней, взаимодействие с БД и удобный интерфейс.  
+*[Посмотреть код →](https://github.com/godanddoom-hue/Jet_Game_Bot)*
+
+**Диплом: система мониторинга ИБ-инцидентов**  
+Серьезный проект, где пришлось проектировать архитектуру, работать с данными в реальном времени и делать понятный интерфейс для анализа.  
+*[Посмотреть код →](https://github.com/godanddoom-hue/Diplom_project)*
 
 ---
 
-### 📫 Как со мной связаться
+### 📚 Об учебе и развитии
 
-- Telegram: [@hedningern](https://t.me/@hedningern)  
-- Email: kirill.nilov.01@mail.ru  
-- GitHub: [github.com/godanddoom-hue](https://github.com/godanddoom-hue)
+* Закончил вуз с техническим образованием
+* Английский на уровне чтения документации и статей
+* Постоянно что-то пробую на практике — для меня это лучший способ учиться
+* Хочу развиваться в коммерческой разработке, перенимая опыт у senior-коллег
+
+---
+
+### 📫 Связаться со мной
+
+* **Telegram:** [@hedningern](https://t.me/hedningern)
+* **Email:** kirill.nilov.01@mail.ru
+* **GitHub:** [github.com/godanddoom-hue](https://github.com/godanddoom-hue)
+
+---
